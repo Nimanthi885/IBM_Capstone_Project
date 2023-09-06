@@ -8,12 +8,12 @@ As a Data Analyst, my primary mission is to assist the organization in identifyi
 
 My key objectives for this project include:
 
-- Collecting data from diverse sources, including job postings, training portals, and surveys.
+* Collecting data from diverse sources, including job postings, training portals, and surveys.
 * Identifying the top programming languages, database skills, and popular Integrated Development Environments (IDEs) in demand.
-+ Preparing the collected data for analysis using data wrangling techniques.
-+Applying statistical techniques to analyze the data.
-+Creating a comprehensive dashboard using IBM Cognos Analytics.
-+Communicating findings effectively through a compelling presentation.
+* Preparing the collected data for analysis using data wrangling techniques.
+* Applying statistical techniques to analyze the data.
+* Creating a comprehensive dashboard using IBM Cognos Analytics.
+* Communicating findings effectively through a compelling presentation.
 
 ## Data Collection
 
