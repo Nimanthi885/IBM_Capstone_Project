@@ -1,4 +1,4 @@
-# IBM Data Analysis Capstone Project-Navigating the IT Skills Landsape: A Data-Driven Analysis
+# IBM Data Analyst Capstone Project-Navigating the IT Skills Landsape: A Data-Driven Analysis
 Welcome to my GitHub README! I'm excited to share with you the exciting journey. In this project, I assume that I'm embarking on as a Data Analyst at a renowned global IT and business consulting services firm. Our firm is dedicated to staying at the forefront of IT solutions and relies on the expertise of highly experienced IT consultants. One of our key strategies for success is the continuous analysis of data to identify future skill requirements in the rapidly evolving IT landscape.
 ## Project Overview
 ### Mission
